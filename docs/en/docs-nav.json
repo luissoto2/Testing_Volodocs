@@ -3,21 +3,6 @@
     {
       "text": "Quick Start",
       "path": "Index.md"
-    },
-    {
-      "text": "Getting Started",
-      "items": [
-        {
-          "text": "Web Application",
-          "path": "Getting-Started.md"
-        },
-        {
-          "text": "WPF Application",
-          "path": "Startup-Templates/WPF.md"
-        },
-        {
-          "text": "Empty Web Project",
-          "path": "Getting-Started-AspNetCore-Application.md"
-        } ]
+    }
      ]
 }
